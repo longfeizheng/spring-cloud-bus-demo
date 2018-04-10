@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: client
+  cloud:
+    config:
+      discovery:
+        enabled: true
+        service-id: CONFIG
+      profile: dev
+server:
+  port: 9092
