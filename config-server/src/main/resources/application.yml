@@ -7,9 +7,9 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/longfeizheng/spring-cloud-sell
+          uri: https://github.com/longfeizheng/spring-cloud-bus-demo
           username: i@merryyou.cn
-          password: 837691512zheng
+          password: password
           search-paths: config-repo
 eureka:
   client:
