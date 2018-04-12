@@ -20,5 +20,5 @@ eureka:
 env:
   dev
 merryyou:
-  name: 郑龙飞11122
+  name: 郑龙飞
   url: https://longfeizheng.github.io/
